@@ -1,4 +1,4 @@
-# Exercicio 21.1 de For
+# Exercicio de Vetor 8
 
 Programa criado para uma atividade envolvendo vetores.
 
